@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+myenv/
+.env
+media/
+vector_db/
+chroma_db/
+repo/
+cloned_repos/
+relations.json
+

@@ -1,0 +1,14 @@
+name: writeme
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - sentence-transformers
+      - faiss-cpu
+      - google-generativeai
+      - tf-keras
+      - transformers
+      - pyyaml
