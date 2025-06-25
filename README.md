@@ -57,7 +57,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/priyanshu2393/GitLit.git
+git clone https://github.com/abhaypsxd/GitLit.git
 cd GitLit
 ```
 
